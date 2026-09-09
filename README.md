@@ -1,5 +1,5 @@
-# LPSDiscovery
-Longitudinal Psychological Subtype Discovery in An Active-Duty Military Cohort with Combat-Related PTSD
+# LCSDiscovery
+Longitudinal Clinical Subtype Discovery in An Active-Duty Military Cohort with Combat-Related PTSD
 ## Overview
 
 This repository contains the analysis code accompanying Istanbouli et al. 2026. We apply a custom negative 
